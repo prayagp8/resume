@@ -1,5 +1,5 @@
 # resume
-![prayag_patel_resume](https://user-images.githubusercontent.com/103635204/206775983-91031acb-c933-4eaf-92f4-e538884ad95b.png)
+![prayag_resume](https://user-images.githubusercontent.com/103635204/210166292-f8a7f253-0cba-4b0c-9159-b71a57e770b9.png)
 
 
 
